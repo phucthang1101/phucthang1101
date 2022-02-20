@@ -7,7 +7,7 @@
 - :books: My major is **Computer Science Software Engineering**
 - :earth_asia: I'm living now in **Windsor, Ontario, Canada**
 - :monocle_face: I'm a curious guy who love to learn new things every day.
-- :sweat_smile: So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀
+- :sweat_smile: So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way 🦾
 - :sunglasses: My quote is ***"There are 10 types of people in this world, those who understand binary and those who dont"*** 
 - ⚡ Fun facts: I would love to see you on Mars one day! 🚀
 
@@ -67,35 +67,30 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with Me
 <p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
+<a href="https://matthewtrn.me"><img src="https://img.shields.io/badge/-matthewtrn.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/phucthang"><img src="https://img.shields.io/badge/-Thang%20Tran-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:phucthangvt1101@gamil.com"><img src="https://img.shields.io/badge/-phucthangvt1101@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://matthewtrn.me/blogs"><img src="https://img.shields.io/badge/-Readinggg%20my%20bloggg-00A98F?style=flat-square&logo=aboutdotme&logoColor=white&"/></a> 
+
   
-   <a href="https://matthewtrn.me/"><img src="https://img.shields.io/badge/-matthewtrn.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=www.linkedin.com/in/phucthang"/>
-   <a href="https://www.linkedin.com/in/anushkaverma/"><img src="https://img.shields.io/badge/-thang.tran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/phucthang)"/> 
-   [![Medium Badge](https://img.shields.io/badge/-blog-000000?style=flat&labelColor=000000&logo=Medium&link=https://matthewtrn.me/blogs)](https://matthewtrn.me/blogs) 
-   [![Gmail Badge](https://img.shields.io/badge/-phucthangvt1101-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phucthangvt1101@gmail.com)](mailto:phucthangvt1101@gmail.com)
-   
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
-   
   <p align="center">
-    Show ❤️ by starring and forking repositories you find good!
+    Starring and sharing the projects you like 🙌
   </p>
-</p>
 
+## <img src="https://c.tenor.com/-1cSa9iEv2oAAAAi/heart.gif" width="50px"> Thanks for visiting 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
-</div>
-<!--
-**phucthang1101/phucthang1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://c.tenor.com/mjpJL6EZBPEAAAAM/goodbye-homer.gif" alt="Programmation" width="200" /><img src="https://media4.giphy.com/media/k3YNVBrbn2KqbXEgDJ/giphy.gif" alt="Spock" width="200" />
+  </div>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+<p align="center">
+        ════════ ⋆★⋆ ════════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+  
