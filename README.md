@@ -1,4 +1,4 @@
-<a href="https://asmit2952.github.io/"><img src="https://i.ibb.co/J25Z2D7/banner.gif" alt="banner" border="0" style="width:100%"></a>
+<a href=""><img src="https://i.ibb.co/J25Z2D7/banner.gif" alt="banner" border="0" style="width:100%"></a>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Eyy Yoo
 
