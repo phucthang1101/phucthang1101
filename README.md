@@ -45,9 +45,11 @@
   
   
   <br />
-
-<img src="https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="" style="width:33%"/><img src="https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="" style="width:33%"/><img src="https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="" style="width:33%"/>
-
+<p float="left">
+<img src="https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="" width="200" />
+<img src="https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="" width="200" />
+<img src="https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="" width="200" />
+</div>
   
  ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
@@ -61,16 +63,15 @@
 <div align="center">
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=phucthang1101&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=phucthang1101&theme=react-dark"/>
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=phucthang1101&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with Me
 <p align="center">
-<a href="https://matthewtrn.me"><img src="https://img.shields.io/badge/-matthewtrn.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://thang-tran.com"><img src="https://img.shields.io/badge/-thangtran.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/phucthang"><img src="https://img.shields.io/badge/-Thang%20Tran-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:phucthangvt1101@gamil.com"><img src="https://img.shields.io/badge/-phucthangvt1101@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://matthewtrn.me/blogs"><img src="https://img.shields.io/badge/-Readinggg%20my%20bloggg-00A98F?style=flat-square&logo=aboutdotme&logoColor=white&"/></a> 
+<a href="https://thangtran.com/blogs"><img src="https://img.shields.io/badge/-Readinggg%20my%20bloggg-00A98F?style=flat-square&logo=aboutdotme&logoColor=white&"/></a> 
 
   
   <p align="center">
